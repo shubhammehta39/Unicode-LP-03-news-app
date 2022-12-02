@@ -1,0 +1,71 @@
+body{
+    /* background-color: rgb(191, 180, 179); */
+    /* background-image: linear-gradient(to bottom right, red, rgb(238, 236, 228),rgb(252, 36, 36)); */
+}
+
+/* .main-grid{
+    background-color: aqua;  sx={{ maxWidth: 345 }}
+} */
+
+/* .decoration-news{
+    margin: 40px 30px;
+    padding-bottom: 30px;
+} */
+
+.heading{
+text-align: center;
+font-size: 4rem;
+padding-bottom: 10px;
+padding-top: 20px;
+}
+
+.heading-inside{
+    color: red;
+}
+
+.paper{
+    padding: 20;
+    height: 65vh;
+    width: 420px;
+    margin: 20px auto;
+    background-color: aqua;
+    
+}
+
+.heading-login{
+    padding: 30px;
+    text-align: center;
+    font-size: 2.5rem;
+}
+
+.box-username{
+    padding: 0 20px 20px 20px;
+}
+
+.formgroup-1{
+    padding-left: 5px;
+}
+
+.signin-btn{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.signup-btn{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.fpass{
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+/* ---------------------------------  GetNews section Begins  ---------------------------------------- */
+
+.card{
+    padding-left: 30px;
+padding: 2em;
+border: 1px solid green;
+text-align: center;
+}
